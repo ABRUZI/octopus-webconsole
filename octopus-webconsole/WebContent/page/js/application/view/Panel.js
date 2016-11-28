@@ -139,7 +139,7 @@ Ext.define("Octopus.view.Panel",{
 		        		
 		        	}
 		        },{
-		        	text:"模拟",
+		        	text:"监控",
 		        	handler:function(){
 		        		
 		        	}
